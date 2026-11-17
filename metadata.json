@@ -1,0 +1,6 @@
+{
+  "name": "SnapKeep",
+  "description": "Private on-device screenshot vault, Mark-style auto-delete timer manager, and floating long-screenshot stitcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

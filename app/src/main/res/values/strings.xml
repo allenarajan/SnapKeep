@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SnapKeep</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_vault">Vault</string>
+    <string name="nav_cleanup">Cleanup</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="notification_channel_capture">Floating Scroll Capture</string>
+    <string name="notification_channel_capture_desc">Shows controls while you capture a long scrolling screenshot</string>
+    <string name="notification_channel_alerts">Auto-Delete Alerts</string>
+    <string name="notification_channel_alerts_desc">Reminds you when temporary screenshots expire or finish cleaning</string>
+
+    <string name="capture_notification_title">SnapKeep Bubble Active</string>
+    <string name="capture_notification_text">Scroll any screen and tap Snap on the floating bubble.</string>
+    <string name="capture_stop_action">Stop &amp; Stitch</string>
+
+    <string name="privacy_badge">On-Device Only • Zero Cloud</string>
+    <string name="shield_active">Screen Shield On</string>
+    <string name="hero_bubble_title">Long Screenshot Bubble</string>
+    <string name="hero_bubble_subtitle">Scroll any chat, receipt, or webpage and snap frames into one long image.</string>
+    <string name="btn_start_bubble">Start Floating Bubble</string>
+    <string name="btn_pick_stitch">Or Stitch Photos</string>
+
+    <string name="hero_mark_title">Protect &amp; Auto-Delete</string>
+    <string name="hero_mark_subtitle">Lock private screenshots in your vault and set an automatic self-destruct timer.</string>
+    <string name="btn_import_screenshot">Pick Screenshot</string>
+
+    <string name="empty_vault_title">Your Private Vault is Spotless</string>
+    <string name="empty_vault_body">Tap Pick Screenshot or start the Floating Bubble to stitch and protect screenshots safely on this phone.</string>
+
+    <string name="empty_cleanup_title">All Caught Up!</string>
+    <string name="empty_cleanup_body">No expired screenshots are waiting right now. Timers you set will clean up automatically or wait here.</string>
+
+    <string name="biometric_title">Unlock SnapKeep Vault</string>
+    <string name="biometric_subtitle">Verify your identity to view your private screenshots</string>
+    <string name="biometric_cancel">Use PIN</string>
+</resources>
